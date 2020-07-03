@@ -1,4 +1,4 @@
-#! /usr/bin/perl -w
+#!/export/projects/bioinfo2/to16r/bin/conda/bin/perl -w
 #
 # File: little.renameContigs.pl
 # Time-stamp: <17-Nov-2015 10:18:29 tdo>
