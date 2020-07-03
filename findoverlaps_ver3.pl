@@ -1,4 +1,4 @@
-#!/software/bin/perl
+#!/export/projects/bioinfo2/to16r/bin/conda/bin/perl -w
 
 ##################################################
 ### INPUT:

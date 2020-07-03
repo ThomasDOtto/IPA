@@ -1,4 +1,4 @@
-#! /usr/bin/perl -w
+#!/export/projects/bioinfo2/to16r/bin/conda/bin/perl -w
 #
 # File: Assembly.deleteReads.pl
 # Time-stamp: <21-Feb-2011 21:11:13 tdo>

@@ -1,4 +1,4 @@
-#! /usr/bin/perl -w
+#!/export/projects/bioinfo2/to16r/bin/conda/bin/perl -w
 #
 # File: IPA.deleteEntryinBlast.pl
 # Time-stamp: <25-Feb-2013 17:19:57 tdo>
