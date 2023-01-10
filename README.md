@@ -14,9 +14,6 @@ Merge contigs if the Illumina reads coverage is 50% of the median coverage. (fin
 Abacas2 to order the contigs (at least rename them)
 icorn2 to correct homopolymer track from the PacBio assembly
 
-## Important notice
-**We are happy to announce that [ILRA](https://github.com/ThomasDOtto/ILRA) has replaced IPA, which is now deprecated. The use of IPA is discouraged. ILRA is actively maintained and all users looking for support can report issues [there](https://github.com/ThomasDOtto/ILRA/issues).**
-
 ## Requirements
 You need following package installed and in the path
 abacas2 - https://github.com/sanger-pathogens/ABACAS2
@@ -32,3 +29,7 @@ blastall - ncbi distribution that has megablast...
 This scripts works well on our computer farm. I adapted it for general use. Certain steps,
 like the circularization are programmed for Plasmodium. 
 If you have problems to run the script please let me know.
+
+## Important notice
+_**We are happy to announce that [ILRA](https://github.com/ThomasDOtto/ILRA) has replaced IPA, which is now deprecated. The use of IPA is discouraged. ILRA is actively maintained and all users looking for support can report issues [there](https://github.com/ThomasDOtto/ILRA/issues).**_
+
