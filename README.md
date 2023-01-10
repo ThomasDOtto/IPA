@@ -14,6 +14,8 @@ Merge contigs if the Illumina reads coverage is 50% of the median coverage. (fin
 Abacas2 to order the contigs (at least rename them)
 icorn2 to correct homopolymer track from the PacBio assembly
 
+## Important notice
+**We are happy to announce that [ILRA](https://github.com/ThomasDOtto/ILRA) has replaced IPA, which is now deprecated. The use of IPA is discouraged. ILRA is actively maintained and all users looking for support can report issues [there](https://github.com/ThomasDOtto/ILRA/issues).**
 
 ## Requirements
 You need following package installed and in the path
